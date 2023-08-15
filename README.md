@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório foi criado para compartilhar recursos e materiais que ajudarão você a dominar a programação em C. Seja você um novato ou alguém que deseja aprimorar suas habilidades, este é o lugar certo para começar.
 
-![Linguagem C](https://exemplo.com/imagem.png)
+![Linguagem C](https://icons8.com.br/icon/shQTXiDQiQVR/programa%C3%A7%C3%A3o-c)
 
 - [Sobre a linguagem ](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
 
