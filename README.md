@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 
 
 ## Tópicos Principais Aprendidos
-
+- [Sintaxe C](https://github.com/caio-lelis/linguagemC/tree/main/introducao_a_linguagem_C.md)
 - [Ponteiros e Alocação Dinâmica](caminho/para/ponteiros.md)
 - [Estruturas de Dados em C](caminho/para/estruturas-de-dados.md)
 - [Manipulação de Arquivos](caminho/para/arquivos.md)
