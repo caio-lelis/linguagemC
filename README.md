@@ -6,11 +6,6 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 
 - [Sobre a linguagem ](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
 
-## Recursos
-
-- [Introdução à Linguagem C](caminho/para/introducao.md)
-- [Ambiente de Desenvolvimento](caminho/para/ambiente.md)
-- [Primeiros Passos com Programação em C](caminho/para/primeiros-passos.md)
 
 ## Tópicos Principais Aprendidos
 
@@ -18,13 +13,6 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 - [Estruturas de Dados em C](caminho/para/estruturas-de-dados.md)
 - [Manipulação de Arquivos](caminho/para/arquivos.md)
 
-## Projetos Práticos
-
-A melhor forma de aprender é colocando a mão na massa! Aqui estão alguns projetos que você pode implementar para aplicar seus conhecimentos:
-
-1. [Calculadora Simples](caminho/para/calculadora)
-2. [Gerenciador de Tarefas](caminho/para/gerenciador-de-tarefas)
-3. [Jogo da Forca em C](caminho/para/jogo-da-forca)
 
 ## Contribuição
 
