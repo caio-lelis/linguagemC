@@ -4,6 +4,8 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 
 ![Linguagem C](https://exemplo.com/imagem.png)
 
+- [Sobre a linguagem ](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
+
 ## Recursos
 
 - [Introdução à Linguagem C](caminho/para/introducao.md)
