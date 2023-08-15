@@ -2,9 +2,11 @@
 
 Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório foi criado para compartilhar recursos e materiais que ajudarão você a dominar a programação em C. Seja você um novato ou alguém que deseja aprimorar suas habilidades, este é o lugar certo para começar.
 
-## Linguagem C
+##                                                                       Linguagem C
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Ícone C" width="40" height="40">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Ícone C" width="90" height="90">
+</div>
 
 
 
@@ -13,9 +15,9 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 
 ## Tópicos Principais Aprendidos
 - [Sintaxe C](https://github.com/caio-lelis/linguagemC/tree/main/Sintaxe_C)
-- [Ponteiros e Alocação Dinâmica](caminho/para/ponteiros.md) em andamento
-- [Estruturas de Dados em C](caminho/para/estruturas-de-dados.md) em andamento
-- [Manipulação de Arquivos](caminho/para/arquivos.md) em andamento
+- [Ponteiros e Alocação Dinâmica](caminho/para/ponteiros.md) -> em andamento
+- [Estruturas de Dados em C](caminho/para/estruturas-de-dados.md) -> em andamento
+- [Manipulação de Arquivos](caminho/para/arquivos.md) -> em andamento
 
 
 ## Contribuição
@@ -32,6 +34,11 @@ Além dos materiais deste repositório, aqui estão alguns recursos externos rec
 
 ## Entre em Contato
 
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma [issue](link-para-issues) neste repositório.
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
+
+<div>
+<a href="https://instagram.com/0caiolelis0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   <a href="https://www.linkedin.com/in/caio-lelis-6733b11b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
 
 Divirta-se explorando a linguagem C e feliz codificação! 🚀💻
