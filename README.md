@@ -18,7 +18,6 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 
 Contribuições são bem-vindas! Se você encontrou um erro, deseja adicionar mais conteúdo ou melhorar os recursos existentes, fique à vontade para fazer um fork deste repositório e enviar um pull request.
 
-Antes de contribuir, por favor, leia nosso [guia de contribuição](caminho/para/guia-de-contribuicao.md).
 
 ## Recursos Externos
 
