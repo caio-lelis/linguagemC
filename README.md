@@ -7,7 +7,7 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 <div align="left">
  <div style="display: inline_block" align="center">
    <br>
-    <img align="center" alt="C" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)">
+    <img align="center" alt="Ling_C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
 </div>
