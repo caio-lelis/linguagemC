@@ -4,7 +4,8 @@ Bem-vindo ao meu repositório de aprendizado da Linguagem C! Este repositório f
 
 ## Linguagem C
 
-![Ícone C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Ícone C" width="50" height="50">
+
 
 
 - [Sobre a linguagem ](https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o))
